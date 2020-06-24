@@ -1,0 +1,7 @@
+{
+	"files.exclude": {
+		"H:/Git/BattleTank/BattleTank/.vscode": true,
+		"H:/Git/BattleTank/BattleTank/Content": true,
+		"H:/Git/BattleTank/BattleTank/Intermediate": true
+	}
+}
