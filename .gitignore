@@ -1,6 +1,10 @@
+# Ingnore VS code
+*.vscode
+
 # Visual Studio 2015 user specific files
 .vs/
 *.VC.db
+*.pdb
 
 # Compiled Object files
 *.slo
